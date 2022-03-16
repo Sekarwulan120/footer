@@ -1,0 +1,19 @@
+body {
+    font-family: "Avenir Next";
+  }
+
+  .footer {
+    background-color: #FF5733;
+    color: rgb(85, 115, 212);
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-content {
+    float: center;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
